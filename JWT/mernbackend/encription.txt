@@ -1,0 +1,8 @@
+Encription vs Hashing:
+-- In Ecription our password change from eg thapa --> aohwh
+and anyone easily decode this code .{(because of 2 way communication)}
+
+but Hashing is One way communication:
+thapa ---> fdsfsdasd.sdfdsssdassss.sdffds --> x
+(md5 in hashing is hacked in 5min)
+so, bycypt(12 round >3year)
